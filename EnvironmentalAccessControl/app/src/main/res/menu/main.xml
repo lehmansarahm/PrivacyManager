@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/map"
+        android:title="Map Area"/>
+
+    <item android:id="@+id/scan"
+        android:title="Scan Area"/>
+
+    <!--<item android:id="@+id/screens"
+        android:title="Find Screens"/>-->
+
+    <item android:id="@+id/clock"
+        android:title="View Clock Timer"/>
+
+    <item android:id="@+id/interval"
+        android:title="View Interval Timer"/>
+
+    <item android:id="@+id/light"
+        android:title="View Light Tracker"/>
+
+    <item android:id="@+id/help"
+        android:title="Help"/>
+
+</menu>
