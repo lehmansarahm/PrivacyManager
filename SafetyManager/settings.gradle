@@ -1,0 +1,1 @@
+include ':app', ':sm_core', ':sm_blockly'
